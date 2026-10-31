@@ -7,12 +7,39 @@
 import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export default defineNavbarConfig([
-  { text: '首页', link: '/' },
-  { text: '博客', link: '/blog/' },
-  { text: '标签', link: '/blog/tags/' },
-  { text: '归档', link: '/blog/archives/' },
+  { 
+    text: '🏠首页',
+    link: '/',
+  },
+  { 
+    text: '📝新鲜事', 
+    link: '/news/' 
+  },
   {
-    text: '笔记',
-    items: [{ text: '示例', link: '/demo/README.md' }]
+    text: '⭐原创插件',
+    items: [
+      { 
+        text: '【礼包码】GiftCode',
+        link: '/giftcode/'
+      }
+    ]
+  },
+  {
+    text: '🧩附属插件',
+    items: [
+      { 
+        text: '【领地飞行】DomFly', 
+        link: '/domfly/'
+      },
+    ]
+  },
+  {
+    text: '🔧二创插件',
+    items: [
+      { 
+        text: '暂无', 
+        link: '/' 
+      }
+    ]
   },
 ])

@@ -3,3 +3,6 @@ shellEmulator: true
 
 allowBuilds:
   '@parcel/watcher': true
+
+overrides:
+  markdown-it: 14.1.0
