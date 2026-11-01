@@ -21,7 +21,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAERfYppqww4uAYebnNCMaKtKBEKmjtGlwACEycAAhk0WVWMHLpOgLyYZToE.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: 'https://img.remit.ee/i/2ZsnhWCcaK4p' }],
   ],
 
   bundler: viteBundler(),

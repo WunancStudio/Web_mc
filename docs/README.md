@@ -10,7 +10,7 @@ config:
       name: Hi!
       tagline: Wow! It's Minecraft!
       text: Wunanc
-      image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAERfYppqww4uAYebnNCMaKtKBEKmjtGlwACEycAAhk0WVWMHLpOgLyYZToE.png
+      image: https://img.remit.ee/i/2ZsnhWCcaK4p
       actions:
         - theme: brand
           text: 来看看都有什么好东西 →

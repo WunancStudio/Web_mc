@@ -129,13 +129,8 @@ const giftcodeDoc = defineCollection({
           icon: 'iconify mdi:file-code-outline',
         },
         {
-          text: 'zh_cn.yml',
-          link: '/giftcode/doc/config-ref/zh_cn/',
-          icon: 'iconify mdi:translate',
-        },
-        {
-          text: 'en_us.yml',
-          link: '/giftcode/doc/config-ref/en_us/',
+          text: 'lang',
+          link: '/giftcode/doc/config-ref/lang/',
           icon: 'iconify mdi:translate',
         },
       ],
